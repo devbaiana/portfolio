@@ -1,5 +1,5 @@
 # Bem vindo(a) ao meu portfólio 
-![Welcome](https://raw.githubusercontent.com/ryxandy/RestConsuming/master/rest.png)
+![Welcome](https://github.com/devbaiana/portfolio/blob/main/Work.png)
 #                                                              Tour pela aplicação
 ###                                                             Overview, Tecnologias
 
@@ -18,7 +18,7 @@
 #### VSCode
 
 ## Página principal exemplo:
-![Json](https://raw.githubusercontent.com/ryxandy/RestConsuming/master/Example.PNG)
+![Json](https://github.com/devbaiana/portfolio/blob/main/portfolio.PNG)
 
 # Conclusions
 ### Pude colocar em prática meus conhecimentos para consolidar o aprendizado de ferramentas frontend.
