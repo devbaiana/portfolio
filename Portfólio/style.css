@@ -1,0 +1,69 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box; /*isso faz com que os paddings e margins adcionados no futuro nao somem com os do padrão do navegador*/
+    font-family: 'Raleway', sans-serif;
+    color:#58606e ;
+}
+img{
+    width: 130px;
+}
+
+header{
+    display: flex;
+    padding: 3px;
+}
+body{
+    background-color: #F0C3F7;
+}
+ul{
+    list-style: none;
+    font-style: italic;
+}
+header, ul{
+    display: flex;
+    justify-content: space-around;
+}
+header, ul, li{
+    padding: 5px;
+    font-weight: bold;
+}
+.container{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
+h1{
+    font-size: 50px;
+}
+h5{
+    font-size: 20px;
+}
+#about, p{
+    max-width: 700px;
+    margin: 0 auto;
+}
+.form{
+    width: 40%;
+    margin: 0 auto;
+}
+.form input{
+    width: 40%;
+    border-radius: 10px;
+    border: 1px black solid;
+    padding: 2px;
+    background-color: #192d4b;
+    color: #F0C3F7;
+}
+.form, input, ::placeholder{
+    color: #F0C3F7;
+}
+.form button{
+    width: 15%;
+    border-radius: 10px;
+    border: 1px black solid;
+    padding: 2px;
+    background-color: #192d4b;
+    color: #F0C3F7 ;
+}
